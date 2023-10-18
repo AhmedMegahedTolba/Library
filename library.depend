@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1697456590 source:e:\job\nti\library\library.c
+	"library.h"
+
+1697453551 e:\job\nti\library\library.h
+
+1697456255 source:e:\job\nti\library\main.c
+	<stdio.h>
+	<stdlib.h>
+	"library.h"
+
